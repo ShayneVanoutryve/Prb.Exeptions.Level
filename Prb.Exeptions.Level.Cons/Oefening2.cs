@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Prb.Exeptions.Level.Cons
+﻿namespace Prb.Exeptions.Level.Cons
 {
     class Oefening2
     {
