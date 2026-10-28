@@ -1,4 +1,4 @@
-# Oefening 10: De Kleurkiezer
+# Oefening 9: De Kleurkiezer
 
 Een programma heeft een lijst met beschikbare kleuren. De gebruiker kiest een kleur uit de lijst door de naam in te voeren. Als de kleur niet in de lijst voorkomt, moet er een `KeyNotFoundException` worden opgevangen.
 
