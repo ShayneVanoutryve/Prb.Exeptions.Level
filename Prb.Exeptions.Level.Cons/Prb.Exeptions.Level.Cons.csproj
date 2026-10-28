@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Prb.Exeptions.Level.Cons.Oefening3</StartupObject>
+    <StartupObject>Prb.Exeptions.Level.Cons.Oefening4</StartupObject>
   </PropertyGroup>
 
 </Project>

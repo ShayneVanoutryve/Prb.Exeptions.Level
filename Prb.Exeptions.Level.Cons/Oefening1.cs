@@ -2,7 +2,7 @@
 {
     class Oefening1
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             // 1. Vraag de gebruiker om twee getallen & 2. Lees de invoer van de gebruiker.
             Console.Write("Voer het eerste getal in: ");
