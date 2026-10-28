@@ -1,4 +1,4 @@
-# Oefening 9: De Cijferlijst
+# Oefening 8: De Cijferlijst
 
 Een docent wil het gemiddelde van een reeks cijfers berekenen. De gebruiker voert een reeks cijfers in, gescheiden door komma's. De applicatie berekent het gemiddelde. De applicatie moet fouten afhandelen voor ongeldige getallen in de reeks en voor een lege invoer.
 
