@@ -1,4 +1,4 @@
-# Oefening 8: De Wachtwoord-checker
+# Oefening 7: De Wachtwoord-checker
 
 Een inlogsysteem vereist dat een wachtwoord minimaal 8 tekens lang is. De gebruiker voert een wachtwoord in. De applicatie controleert de lengte. Als het wachtwoord te kort is, wordt er een `ArgumentException` gegooid en een foutmelding getoond.
 
