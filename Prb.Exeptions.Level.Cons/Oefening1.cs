@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Prb.Exeptions.Level.Cons
+﻿namespace Prb.Exeptions.Level.Cons
 {
     class Oefening1
     {
